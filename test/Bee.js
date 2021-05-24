@@ -1,3 +1,6 @@
+
+const Bee = require('.../src').Bee
+
 describe('Bee class functionality', () => {
   var bee;
 

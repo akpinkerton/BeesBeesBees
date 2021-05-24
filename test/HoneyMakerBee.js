@@ -1,3 +1,6 @@
+const HoneyMakerBee = require('.../src').HoneyMakerBee
+
+
 describe('HoneyMakerBee class functionality', () => {
   var honeyBee;
 

@@ -1,3 +1,6 @@
+const Grub = require('.../src').Grub
+
+
 describe('Grub class functionality', () => {
   var grub;
 

@@ -1,3 +1,5 @@
+const ForagerBee = require('.../src').ForagerBee
+
 describe('ForagerBee class functionality', () => {
   var foragerBee;
 

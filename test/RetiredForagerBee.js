@@ -1,3 +1,6 @@
+const RetiredForagerBee = require('.../src').RetiredForagerBee
+
+
 describe('RetiredForagerBee class functionality', () => {
   var retiredForagerBee;
 
